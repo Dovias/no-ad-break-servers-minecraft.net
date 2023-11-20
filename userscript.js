@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        No ad break servers-minecraft.net
-// @supportURL  https://github.com/Dovias/no-delay-minecraft-servers.net/
-// @downloadURL https://raw.githubusercontent.com/Dovias/no-delay-minecraft-servers.net/main/userscript.js
+// @supportURL  https://github.com/Dovias/no-ad-break-servers-minecraft.net/
+// @downloadURL https://raw.githubusercontent.com/Dovias/no-ad-break-servers-minecraft.net/main/userscript.js
 // @include     /^https?:\/\/servers-minecraft.net\/landing.+$/
 // @grant       none
 // @version     1.0
